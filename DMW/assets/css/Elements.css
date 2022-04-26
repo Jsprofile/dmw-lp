@@ -1,0 +1,15 @@
+html{
+    font-size: 63%;
+}
+
+h2{
+    font-size: 6rem;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+p{
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 3rem;
+}
